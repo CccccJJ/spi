@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Impl1/Impl1.iml" filepath="$PROJECT_DIR$/Impl1/Impl1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Impl2/Impl2.iml" filepath="$PROJECT_DIR$/Impl2/Impl2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-run/spi-run.iml" filepath="$PROJECT_DIR$/spi-run/spi-run.iml" />
+    </modules>
+  </component>
+</project>

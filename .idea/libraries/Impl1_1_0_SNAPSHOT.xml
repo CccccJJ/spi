@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Impl1-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Impl1/target/Impl1-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
